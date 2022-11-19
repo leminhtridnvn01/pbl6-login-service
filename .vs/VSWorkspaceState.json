@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\models",
+    "\\src\\models\\database"
+  ],
+  "SelectedNode": "\\src\\models\\database\\mongoose.js",
+  "PreviewInSolutionExplorer": false
+}
